@@ -1,7 +1,9 @@
 package com.devicepilot.devicesexample;
 
+/**
+ * Example of a measurement record from a device.
+ */
 public class DeviceRecord {
-
     public String $id;
     public double latitude;
     public double longitude;
